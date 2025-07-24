@@ -1,4 +1,4 @@
-console.log("%ccreated by Krish Gupta", "color: white; background-color: royalblue; padding: 0.5em; border: none; border-radius: 50px; font-size: 1em;");
+console.log("%ccreated by Pradyumn", "color: white; background-color: royalblue; padding: 0.5em; border: none; border-radius: 50px; font-size: 1em;");
 
 //Songs Data
 let songs = [
@@ -218,7 +218,7 @@ let comingSoonBtns = document.querySelectorAll('.comingSoon-btn');
 
 // The Main Function
 document.addEventListener("DOMContentLoaded", function () {
-    console.log("%ccreated by Krish Gupta", "color: white; background-color: royalblue; padding: 0.5em; border: none; border-radius: 50px; font-size: 1em;");
+    console.log("%ccreated by Pradyumn", "color: white; background-color: royalblue; padding: 0.5em; border: none; border-radius: 50px; font-size: 1em;");
     land();
     showSongs();
 
