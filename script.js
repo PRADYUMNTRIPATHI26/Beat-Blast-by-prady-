@@ -1,4 +1,6 @@
-console.log("%ccreated by Pradyumn", "color: white; background-color: royalblue; padding: 0.5em; border: none; border-radius: 50px; font-size: 1em;");
+console.log("%ccreated by Pradyumn Tripathi", "color: white; background-color: royalblue; padding: 0.5em; border: none; border-radius: 50px; font-size: 1em;");
+
+
 
 //Songs Data
 let songs = [
@@ -525,7 +527,7 @@ function nameAndHomeBtnFunction() {
         btn.addEventListener("click", function () { location.reload() });
     });
     homeBtn.forEach(function (btn) {
-        btn.addEventListener("click", function () { window.open("https://github.com/krishg11/BeatBlast", "_blank"); });
+        btn.addEventListener("click", function () { window.open("https://github.com/PRADYUMNTRIPATHI26/Beat-Blast-by-prady-", "_blank"); });
     });
 };
 function checkClick() {
@@ -549,3 +551,4 @@ function playNextSong() {
 function generateRandomNumber() {
     return Math.floor(Math.random() * 20);
 };
+
